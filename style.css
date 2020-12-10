@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #dddddd;
+}
+
+th, td {
+    text-align: left;
+    padding: 16px;
+}
+
+tr:nth-child(evem){
+    background-color: #f2f2f2;
+}
+.gmbr {
+    width: 150px;
+    height: 150px;
+}
